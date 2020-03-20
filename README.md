@@ -1,2 +1,2 @@
 # datasets-italia
-Raccolta di datasets su informazioni semplici e utili
+L'idea di questo repo è di fornire una raccolta di datasets su diverse informazioni relative all'Italia, suddivise in varie categorie.
