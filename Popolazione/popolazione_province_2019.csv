@@ -1,0 +1,108 @@
+Anno,Codice_Regione,Regione,Codice_Provincia,Provincia,Popolazione
+2019,01,Piemonte,001,Torino,2259523
+2019,01,Piemonte,002,Vercelli,170911
+2019,01,Piemonte,003,Novara,369018
+2019,01,Piemonte,004,Cuneo,587098
+2019,01,Piemonte,005,Asti,214638
+2019,01,Piemonte,006,Alessandria,421284
+2019,02,Valle d'Aosta/Vallée d'Aoste,007,Valle d'Aosta/Vallée d'Aoste,125666
+2019,07,Liguria,008,Imperia,213840
+2019,07,Liguria,009,Savona,276064
+2019,07,Liguria,010,Genova,841180
+2019,07,Liguria,011,La Spezia,219556
+2019,03,Lombardia,012,Varese,890768
+2019,03,Lombardia,013,Como,599204
+2019,03,Lombardia,014,Sondrio,181095
+2019,03,Lombardia,015,Milano,3250315
+2019,03,Lombardia,016,Bergamo,1114590
+2019,03,Lombardia,017,Brescia,1265954
+2019,03,Lombardia,018,Pavia,545888
+2019,03,Lombardia,019,Cremona,358955
+2019,03,Lombardia,020,Mantova,412292
+2019,04,Trentino-Alto Adige/Südtirol,021,Bolzano/Bozen,531178
+2019,04,Trentino-Alto Adige/Südtirol,022,Trento,541098
+2019,05,Veneto,023,Verona,926497
+2019,05,Veneto,024,Vicenza,862418
+2019,05,Veneto,025,Belluno,202950
+2019,05,Veneto,026,Treviso,887806
+2019,05,Veneto,027,Venezia,853338
+2019,05,Veneto,028,Padova,937908
+2019,05,Veneto,029,Rovigo,234937
+2019,06,Friuli-Venezia Giulia,030,Udine,528791
+2019,06,Friuli-Venezia Giulia,031,Gorizia,139403
+2019,06,Friuli-Venezia Giulia,032,Trieste,234493
+2019,08,Emilia-Romagna,033,Piacenza,287152
+2019,08,Emilia-Romagna,034,Parma,451631
+2019,08,Emilia-Romagna,035,Reggio nell'Emilia,531891
+2019,08,Emilia-Romagna,036,Modena,705393
+2019,08,Emilia-Romagna,037,Bologna,1014619
+2019,08,Emilia-Romagna,038,Ferrara,345691
+2019,08,Emilia-Romagna,039,Ravenna,389456
+2019,08,Emilia-Romagna,040,Forlì-Cesena,394627
+2019,11,Marche,041,Pesaro e Urbino,358886
+2019,11,Marche,042,Ancona,471228
+2019,11,Marche,043,Macerata,314178
+2019,11,Marche,044,Ascoli Piceno,207179
+2019,09,Toscana,045,Massa-Carrara,194878
+2019,09,Toscana,046,Lucca,387876
+2019,09,Toscana,047,Pistoia,292473
+2019,09,Toscana,048,Firenze,1011349
+2019,09,Toscana,049,Livorno,334832
+2019,09,Toscana,050,Pisa,419037
+2019,09,Toscana,051,Arezzo,342654
+2019,09,Toscana,052,Siena,267197
+2019,09,Toscana,053,Grosseto,221629
+2019,10,Umbria,054,Perugia,656382
+2019,10,Umbria,055,Terni,225633
+2019,12,Lazio,056,Viterbo,317030
+2019,12,Lazio,057,Rieti,155503
+2019,12,Lazio,058,Roma,4342212
+2019,12,Lazio,059,Latina,575254
+2019,12,Lazio,060,Frosinone,489083
+2019,15,Campania,061,Caserta,922965
+2019,15,Campania,062,Benevento,277018
+2019,15,Campania,063,Napoli,3084890
+2019,15,Campania,064,Avellino,418306
+2019,15,Campania,065,Salerno,1098513
+2019,13,Abruzzo,066,L'Aquila,299031
+2019,13,Abruzzo,067,Teramo,308052
+2019,13,Abruzzo,068,Pescara,318909
+2019,13,Abruzzo,069,Chieti,385588
+2019,14,Molise,070,Campobasso,221238
+2019,16,Puglia,071,Foggia,622183
+2019,16,Puglia,072,Bari,1251994
+2019,16,Puglia,073,Taranto,576756
+2019,16,Puglia,074,Brindisi,392975
+2019,16,Puglia,075,Lecce,795134
+2019,17,Basilicata,076,Potenza,364960
+2019,17,Basilicata,077,Matera,197909
+2019,18,Calabria,078,Cosenza,705753
+2019,18,Calabria,079,Catanzaro,358316
+2019,18,Calabria,080,Reggio di Calabria,548009
+2019,19,Sicilia,081,Trapani,430492
+2019,19,Sicilia,082,Palermo,1252588
+2019,19,Sicilia,083,Messina,626876
+2019,19,Sicilia,084,Agrigento,434870
+2019,19,Sicilia,085,Caltanissetta,262458
+2019,19,Sicilia,086,Enna,164788
+2019,19,Sicilia,087,Catania,1107702
+2019,19,Sicilia,088,Ragusa,320893
+2019,19,Sicilia,089,Siracusa,399224
+2019,20,Sardegna,090,Sassari,491571
+2019,20,Sardegna,091,Nuoro,208550
+2019,20,Sardegna,092,Cagliari,431038
+2019,06,Friuli-Venezia Giulia,093,Pordenone,312533
+2019,14,Molise,094,Isernia,84379
+2019,20,Sardegna,095,Oristano,157707
+2019,01,Piemonte,096,Biella,175585
+2019,03,Lombardia,097,Lecco,337380
+2019,03,Lombardia,098,Lodi,230198
+2019,08,Emilia-Romagna,099,Rimini,339017
+2019,09,Toscana,100,Prato,257716
+2019,18,Calabria,101,Crotone,174980
+2019,18,Calabria,102,Vibo Valentia,160073
+2019,01,Piemonte,103,Verbano-Cusio-Ossola,158349
+2019,03,Lombardia,108,Monza e della Brianza,873935
+2019,11,Marche,109,Fermo,173800
+2019,16,Puglia,110,Barletta-Andria-Trani,390011
+2019,20,Sardegna,111,Sud Sardegna,350725
